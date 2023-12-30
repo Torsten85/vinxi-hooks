@@ -1,0 +1,20 @@
+{
+  "name": "vinxi-test",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vinxi": "vinxi",
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "keywords": [],
+  "author": "Torsten",
+  "license": "ISC",
+  "dependencies": {
+    "@vinxi/server-functions": "^0.0.58",
+    "vinxi": "^0.0.61"
+  }
+}
